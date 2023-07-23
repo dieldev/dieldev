@@ -58,6 +58,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com :heart:</p>
   <p><a href="">Sidiel Oliveira</a></p>
 </div>
