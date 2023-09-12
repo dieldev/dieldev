@@ -56,8 +56,10 @@
   <p><a href="">Sidiel Oliveira</a></p>
 </div>
 
+< !--
 <div>
-
+ 
 ![Snake animation](https://github.com/dieldev/dieldev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+-- >
