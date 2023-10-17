@@ -3,7 +3,7 @@
   
   <h1 align="center">
     Olá! Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/sidieloliveira/">Sidiel Oliveira 😃️</a>
+    <a href="https://www.linkedin.com/in/sidieloliveira/">Sidiel Oliveira</a>
   </h1>
   
 </div>
