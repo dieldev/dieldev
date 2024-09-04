@@ -13,7 +13,7 @@
 - 📩 Contate-me pelo e-mail profissional: sidiel.dev@gmail.com 
 
 <div>
-  <img align="right" alt="Diel-pic" height="350" style="border-radius:50px;" src="https://i.imgur.com/CCQp8Jb.png">
+  <img align="right" alt="Diel-pic" height="300" style="border-radius:50px;" src="https://i.imgur.com/CCQp8Jb.png">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=dieldev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></br>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieldev&layout=compact&langs_count=16&theme=algolia"/>
 </div>
